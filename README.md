@@ -3,6 +3,7 @@
 ![maven](https://img.shields.io/badge/MrLGXC-%E6%B5%81%E5%85%89%E6%98%9F%E8%BE%B0-brightgreen)
 ![maven](https://img.shields.io/badge/GTA-1.66-darkgreen)
 
+<h1>这是一个被遗弃的设想</h1>
 <h1>RockStar-BAN</h1>
 总所周知，R星游戏中有数量庞大的作弊者群体，此规模在整个游戏史上都很罕见。并且作弊者在游戏中的影响和恶劣程度远远超过其他所有游戏<br>
 本项目-R星联ban旨在维护线上模式游戏环境，收录恶劣作弊者名单。当然并不是所有作弊者都是恶劣玩家。包括本人也是一个时长超过5000小时的6年老作弊者。<br>
